@@ -135,8 +135,8 @@ CART_SESSION_ID = 'cart'
 
 
 # STRIPE PAYMENT
-STRIPE_PUB_KEY = 'pk_test_OKdhbDNME5KHtnpzYRBfNmEZ00mjM6DVsJ' # For JavaScript
-STRIPE_SECRET_KEY = 'sk_test_jaIdMJOlkcUG6QpXV5wAJxXT005aZAJVM1' # For Django Backend
+STRIPE_PUB_KEY = '' # For JavaScript
+STRIPE_SECRET_KEY = '' # For Django Backend
 
 # For Email Notification
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
